@@ -6,7 +6,7 @@ This topic originally stems from Kaggle (https://www.kaggle.com/navoneel/brain-m
 
 ![alt text](https://raw.githubusercontent.com/FelixBra/Brain-MRI-Images-for-Brain-Tumor-Detection/master/brain3.png)
 
-The purpose of this project is to help finding potential tumors in the MRI images of the patients brains. In the picture above we can nicely see the difference between tumors ([0. 1.]) and non-tumors ([1. 0.]). Finding tumors in an early stage could be the difference between life and death. 
+The purpose of this project is to help finding potential tumors in the MRI images of the patients brains. In the picture above we can nicely see the difference between tumors ([0. 1.]) and non-tumors ([1. 0.]). Finding tumors in an early stage could be the difference between life and death for the patient. 
 
 II. Objective
 
